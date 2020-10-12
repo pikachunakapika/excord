@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.excord" path="/org/gnome/shell/extensions/excord/">
+    <!-- The key type "a{sb}" describes a dictionary of string-boolean pairs -->
+    <!-- See also: https://developer.gnome.org/glib/stable/gvariant-format-strings.html -->
+    <key name="token" type="s">
+      <default>""</default>
+    </key>
+    <key name="connect-helper" type="b">
+      <default>false</default>
+    </key>
+    <key name="show-on-message" type="b">
+      <default>false</default>
+    </key>
+    <key name="sound-on-message" type="b">
+      <default>false</default>
+    </key>
+  </schema>
+</schemalist>
