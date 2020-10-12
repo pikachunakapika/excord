@@ -4,8 +4,16 @@
 #### !!! USE AT YOUR OWN RISK !!!!
 This might get your account banned or something...I don't know!
 
-#### Status
-It is working but code needs some clean up.
+#### Status & Todo
+It is working but code needs some clean up and restructuring.
+
+Message layouting is often broken for fancy text formattings or long messages.
+
+- Filter muted objects
+- More filters maybe (e.g. filter bot messages)
+- Display inline images when it's not in the embed property (plain url message)
+- Display inline images when it's in an attachment property
+- Send message to user (extend destination selection for @users)
 
 #### Usage
 - Clone repository to ~/.local/share/gnome-shell/extensions/excord@pikachunakapika
