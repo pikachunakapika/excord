@@ -9,11 +9,13 @@ It is working but code needs some clean up and restructuring.
 
 Message layouting is often broken for fancy text formattings or long messages.
 
-- Filter muted objects
-- More filters maybe (e.g. filter bot messages)
-- Display inline images when it's not in the embed property (plain url message)
-- Display inline images when it's in an attachment property
-- Send message to user (extend destination selection for @users)
+- [x] Filter muted objects
+- [x] Filter bot message
+- [ ] Filter more?
+- [ ] Quotes
+- [ ] Display inline images when it's not in the embed property (plain url message)
+- [ ] Display inline images when it's in an attachment property
+- [ ] Send message to user (extend destination selection for @users)
 
 #### Usage
 - Clone repository to ~/.local/share/gnome-shell/extensions/excord@pikachunakapika
