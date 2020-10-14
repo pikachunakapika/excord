@@ -9,7 +9,7 @@ It is working but code needs some clean up and restructuring.
 
 Message layouting is often broken for fancy text formattings or long messages.
 
-- [x] Filter muted objects
+- [ ] Filter muted objects
 - [x] Filter bot message
 - [ ] Filter more?
 - [ ] Quotes
