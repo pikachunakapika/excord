@@ -4,6 +4,13 @@
     font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
+.window {
+    
+    background-color: rgba(20, 20, 20, 0.9);
+    border-radius:  8px;
+    padding: 8px;
+}
+
 .avatar-container {
     padding: 0 8px;
 }
@@ -74,3 +81,4 @@
 .send_area {
     padding: 4px 16px 0 16px;
 }
+
